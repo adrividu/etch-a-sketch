@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+}
+
+
+.Fila {
+     display: flex;
+     border-style: none;
+    /*border-color: blueviolet;*/
+}
+
+div {
+    /*width: 500px;*/
+    border-style: solid;
+    border-color: blueviolet;
+    text-align: center;
+    border-width: 5px;
+    margin: 5px;
+    /*background-color: brown;*/
+
+}
+
+button {
+
+    font-size: 24px;
+    
+}
